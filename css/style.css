@@ -1,0 +1,91 @@
+.html
+	{
+	color:black;
+	background-color:yellow;
+	font-size:18px;
+	padding:5px 7px;
+	border:10px solid blue;
+	margin:15px;
+	text-align:center;
+	}
+	
+.html img
+	{
+	height:500px;
+	width:500px;
+	}
+.html p
+	{
+	text-align:left;
+	}
+
+#css
+	{
+	color:aqua;
+	background-color:green;
+	font-size:25px;
+	padding:3px 5px;
+	border:12px double black;
+	margin:20px;
+	text-align:center;
+	}
+	
+#css img
+	{
+	height:500px;
+	width:500px;
+	}
+	
+#css p
+	{
+	text-align:left;
+	}	
+	
+	
+.java
+	{
+	color:gray;
+	background-color:#D98880;
+	font-size:26px;
+	padding:7px;
+	border:10px dotted red;
+	margin:23px;
+	text-align:center;
+	}
+
+	
+.java img
+	{
+	height:500px;
+	width:500px;
+	}
+	
+.java p
+	{
+	text-align:left;
+	}	
+	
+#cricket
+	{
+	color:#979A9A ;
+	background-color:#F4F6F7;
+	font-size:24px;
+	padding:10px 5px 8px;
+	border:10px dashed gray;
+	margin:27px;
+	text-align:center;
+	}
+	
+#cricket img
+	{
+	height:500px;
+	width:500px;
+	}
+	
+#cricket p
+	{
+	text-align:left;
+	}	
+		
+
+	
